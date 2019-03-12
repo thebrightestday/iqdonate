@@ -4,4 +4,4 @@ IQ Donate is the ETHDenver 2019 finalist.
 
 # Repo info
 This repo contains frontend structure.
-Tech stack: Custom HTML5/CSS3/Bootstrap4.
+Tech stack: Custom HTML5 / CSS3 / Bootstrap4.
